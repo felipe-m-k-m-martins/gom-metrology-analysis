@@ -1,0 +1,13 @@
+# Binary files: no text diff, no line-ending conversion
+*.sldprt binary
+*.SLDPRT binary
+*.sldasm binary
+*.SLDASM binary
+*.slddrw binary
+*.SLDDRW binary
+*.stl binary
+*.STL binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.gif binary
