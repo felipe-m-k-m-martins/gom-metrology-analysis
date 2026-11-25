@@ -24,8 +24,10 @@ Tolerances used in the inspection: ±0.10 mm on sizes and 0.10 mm on form and po
 | Stud diameter (6 studs, two-point size) | 4.80 mm | 4.89 to 4.92 mm | 0.09 to 0.12 mm above nominal, most studs above the upper limit |
 | Bottom tube diameter (2 tubes) | 6.40 mm | 6.50 to 6.57 mm | 0.10 to 0.17 mm above nominal, at or above the upper limit |
 | Cylindricity of the bottom tubes | 0.10 mm | 0.04 mm | Within tolerance |
-| Flatness of the top face | 0.10 mm | 0.03 to 0.04 mm | Within tolerance |
-| Position of the studs (Ø0.10 mm) | 0.10 mm | 0.02 to 0.16 mm, depending on the datum system | Within tolerance only in the datum system built on planes 1, 6 and 7 |
+| Flatness of the top face | 0.10 mm | 0.03 mm | Within tolerance |
+| Surface profile of the top face (one check per datum system) | 0.10 mm | 0.03 to 0.04 mm | Within tolerance |
+| Perpendicularity of the studs and tubes | 0.10 mm | 0.00 to 0.01 mm | Within tolerance |
+| Position of the studs (Ø0.10 mm) | 0.10 mm | 0.02 to 0.16 mm, depending on the datum system | All six studs within tolerance only in the datum system built on planes 1, 6 and 7 |
 | Position of the bottom tubes (Ø0.10 mm) | 0.10 mm | 0.01 to 0.23 mm, depending on the datum system | Out of tolerance in two of the three datum systems |
 
 The studs and tubes came out slightly larger than the CAD model, while form errors stayed well inside tolerance. The position results depend strongly on the datum system, which shows how the choice of datums changes the verdict on the same part.
