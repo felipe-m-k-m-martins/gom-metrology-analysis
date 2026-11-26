@@ -50,6 +50,10 @@ images/                           pages of the report
 
 The project opens in GOM Inspect 2019 or later. Labels in the report are in Portuguese.
 
+## Attribution and usage
+
+This repository is my own work, shared for portfolio and educational purposes. No license is granted for reuse or redistribution of the project file, report, images or text. If you want to use any of it, please contact me on [LinkedIn](https://www.linkedin.com/in/felipe-m-k-m-martins).
+
 ## Author
 
 Felipe Martins, Mechatronics Engineering student at UTFPR, double degree at ENSTA.
