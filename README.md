@@ -52,5 +52,5 @@ The project opens in GOM Inspect 2019 or later. Labels in the report are in Port
 
 ## Author
 
-Felipe Martins, Mechatronics Engineering student at UTFPR, double degree at ENSTA Bretagne.
+Felipe Martins, Mechatronics Engineering student at UTFPR, double degree at ENSTA.
 [LinkedIn](https://www.linkedin.com/in/felipe-m-k-m-martins)
